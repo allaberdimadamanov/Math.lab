@@ -5,7 +5,6 @@ title: Шифры перестановки
 author:  Мадаманов Аллаберды
 institute: Российский Университет Дружбы Народов
 date: 4 февраля, 2024, Москва, Россия
-
 ## Formatting
 mainfont: PT Serif
 romanfont: PT Serif
